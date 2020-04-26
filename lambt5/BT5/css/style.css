@@ -1,0 +1,25 @@
+*{
+	box-sizing: border-box;}
+#anh1{
+	width: 900px;
+	max-width: 100%;
+	max-height: 300px;
+}
+
+#a1 a:link{color: black;}#a1 a:hover{color: blue;}#a1 a:active{color: red;}#a1 a:visited{color: yellow;}
+#a2 a:link{color: red;}#a2 a:hover{color: yellow;}#a2 a:active{color: orange;} #a2 a:visited{color: blue;}
+h1{
+	font-size: 40px;
+	color: blue;
+	text-align: center;
+	text-decoration: underline;
+}
+
+.all{
+	max-width: 1000px;
+	margin: auto;
+}
+.all1{
+	width: 1000px;
+	margin: auto;
+}

@@ -1,0 +1,40 @@
+.tp{float: left;
+	border:2px solid black;
+	padding: 10px;
+	margin: 2px;
+width: 30%}
+
+.rau {border-color: red;
+}
+.rau span{ color: red; }
+.gao {border-color: blue;}
+.gao span{ color: blue; }
+.haisan {border-color: green;}
+.haisan  span{color: green;}
+#tt-tp{color: DarkMagenta;
+text-align: center;
+}
+
+.anh2 img{
+	width: 200px;
+	height: 150px;
+	border-radius: 80%;
+}
+.anh2{
+	border:2px solid black;
+	float: left;
+	width: 30%;
+	margin: 2px;
+	
+}
+.b1{border-color: red}
+.b2{border-color: green}
+.b3{border-color: blue}
+.all1{color: DarkMagenta;
+text-align: center;
+}
+.c1{
+	border:2px solid black;
+	border-radius: 80%;
+
+}
